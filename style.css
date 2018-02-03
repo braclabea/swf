@@ -44,7 +44,7 @@ nav{
      align-items: center;
      justify-content: space-between;
      font-size: 2em;
-	 text-shadow: 1px 1px 2px black, 0 0 10px grey, 0 0 3px darkblue;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),;
 }
  .navbar__brand{
      display: flex;
