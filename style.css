@@ -44,7 +44,7 @@ nav{
      align-items: center;
      justify-content: space-between;
      font-size: 1.5em;
-	 text-shadow: 1px 1px 2px black, 0 0 10px grey, 0 0 5px darkblue;
+	 text-shadow: 1px 1px 2px black, 0 0 10px grey, 0 0 3px darkblue;
 }
  .navbar__brand{
      display: flex;
@@ -94,5 +94,5 @@ nav{
 }
  .navbar__actions i:hover, .navbar__brand__menu:hover{
      background: white;
-     color:#e74c3c;
+     color:#CC9999;
 }
