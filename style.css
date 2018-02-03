@@ -77,7 +77,8 @@ nav{
      cursor: pointer;
 }
  .navbar__menu li:hover{
-     border-bottom: 4px solid white;
+     border-bottom: 2px solid #FFCCCC;
+	 color:white;
 }
  .navbar__actions{
      min-width: 10%;
